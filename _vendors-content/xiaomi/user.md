@@ -1,4 +1,4 @@
----
+RedmiA1+---
 manufacturer: 
     - xiaomi
 
